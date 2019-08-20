@@ -1,0 +1,19 @@
+{
+  "name": "js-scroll_puncture",
+  "version": "1.0.1",
+  "description": "解决滚动穿刺问题",
+  "main": "scrollPuncture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jx62257070/js-scroll_puncture.git"
+  },
+  "author": "jx62257070",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jx62257070/js-scroll_puncture/issues"
+  },
+  "homepage": "https://github.com/jx62257070/js-scroll_puncture#readme"
+}
