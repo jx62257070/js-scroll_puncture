@@ -1,6 +1,6 @@
 {
   "name": "js-scroll_puncture",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "解决滚动穿刺问题",
   "main": "scrollPuncture.js",
   "scripts": {
