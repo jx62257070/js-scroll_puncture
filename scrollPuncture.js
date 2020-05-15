@@ -24,7 +24,7 @@ export function closePop(type){
     var _type=type||"1"
     switch (_type) {
         case "1":
-            document.removeEventListener('touchmove',touchStart,{passive:false});
+            document.removeEventListener('touchmove',touchStart_js_scroll_puncture,{passive:false});
             break;
         case "2":
             document.body.style.position="static"
